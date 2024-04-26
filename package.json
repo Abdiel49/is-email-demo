@@ -1,6 +1,6 @@
 {
   "name": "is-email-demo",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "type": "module",
   "description": "una simple e inutils funcion de saludar",
   "main": "index.js",
