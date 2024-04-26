@@ -1,6 +1,6 @@
 {
   "name": "is-email-demo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "description": "una simple e inutils funcion de saludar",
   "main": "index.js",
@@ -13,7 +13,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "keywords": ["email", "is emal", "isEmail"],
+  "keywords": [
+    "email",
+    "is emal",
+    "isEmail"
+  ],
   "author": "abdiel49",
   "license": "ISC"
 }
