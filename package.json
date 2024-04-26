@@ -1,0 +1,14 @@
+{
+  "name": "is-email-demo",
+  "version": "1.0.1",
+  "type": "module",
+  "description": "una simple e inutils funcion de saludar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "abdiel49",
+  "license": "ISC"
+}
