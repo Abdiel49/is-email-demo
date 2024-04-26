@@ -4,11 +4,16 @@
   "type": "module",
   "description": "una simple e inutils funcion de saludar",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abdiel49/is-email-demo"
+  },
+  "homepage": "https://github.com/Abdiel49/is-email-demo#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "keywords": [],
+  "keywords": ["email", "is emal", "isEmail"],
   "author": "abdiel49",
   "license": "ISC"
 }
